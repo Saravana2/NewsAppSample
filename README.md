@@ -1,3 +1,3 @@
 # NewsAppSample
 
-MVVM, Retrofit, Room, Dagger 2, Glide, Kotlin coroutines, View Binding
+MVVM, Retrofit, Room, Dagger 2, Glide, Kotlin coroutines, View Binding, Clean Architecture
